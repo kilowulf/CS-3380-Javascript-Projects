@@ -1,4 +1,4 @@
-Usage: node diskhog [arguments] english (US)
+Usage: node diskhog [arguments] spanish (spain)
 
 -p, --path <path value>, the relative or absolute path name of a file or directory. 
       Default is . (current working directory
